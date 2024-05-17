@@ -1,0 +1,26 @@
+.espaco-esquerda {
+  padding-left: 20px;
+}
+
+.cabecalho {
+  margin-bottom: 20px;
+}
+
+.cartao {
+  margin: 20px;
+}
+
+.btn-info {
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  font-style: oblique;
+  background-color: rgb(255, 0, 200);
+   width: 250px;
+  height: 100px;
+  border-radius: 20px;
+  padding: center;
+}
+
+.cj {
+  height: 257px;
+}
